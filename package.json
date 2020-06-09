@@ -1,12 +1,12 @@
 {
-  "name": "TailBeacon",
+  "name": "ElevenTail",
   "version": "0.1.0",
-  "description": "Used for Tailwind and Eleventy",
-  "author": "Daz",
+  "description": "A project scaffold for quick-starting a site with Eleventy and TailwindCSS",
+  "author": "Phil Hawksworth",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "#"
+    "url": "https://github.com/philhawksworth/eleventail"
   },
   "scripts": {
     "build": "npm-run-all build:css build:html",
